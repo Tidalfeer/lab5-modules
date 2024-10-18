@@ -7,7 +7,6 @@ console.log('Add: ', add(12,13));
 console.log('Lowercase: ', toLowerCase('hello world'));
 
 import { multiply } from './mathModule';
-import { toLowerCase, toUpperCase } from './stringModule';
 import { findMax, reverseArray} from './arrayModule';
 
 console.log('Max: ', findMax ([1,2,3,4,5]));
