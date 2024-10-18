@@ -1,5 +1,5 @@
 // app.js
-import {add, subtract, divide, multiply} from './mathModule';
+import {add, subtract, divide} from './mathModule';
 import {toUpperCase, toLowerCase} from './stringModule';
 
 // Call the functions and lod results 
