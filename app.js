@@ -6,7 +6,7 @@ import {toUpperCase, toLowerCase} from './stringModule';
 console.log('Add: ', add(12,13));
 console.log('Lowercase: ', toLowerCase('hello world'));
 
-import multiply, {add, subtract} from './mathModule';
+import multiply, { multiply } from './mathModule';
 import { toLowerCase, toUpperCase } from './stringModule';
 import { findMax, reverseArray} from './arrayModule';
 
